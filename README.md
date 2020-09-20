@@ -1,15 +1,11 @@
-## I'm Nauval 👋
+### I'm Nauval 👋
 
-### Get Updates
-- https://twitter.com/mhdnauvalazhar
+I made [getstisla.com](https://getstisla.com/). A man behind [kodinger.com](https://kodinger.com/). Well, nothing else, just human, like you. 
 
-### Open Source
-- https://github.com/stisla/stisla
+- 💻 https://nauv.al
+- ☕ https://buymeacoffee.com/mhd
+- 🕊️ https://twitter.com/mhdnauvalazhar
+- 🎨 https://www.figma.com/@mhd
+- 📖 https://multinity.id/book/tailwind-css
 
-### Books
-- https://multinity.id/book/tailwind-css
-
-### Support me 
-<a href="https://www.buymeacoffee.com/mhd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" width="200"></a>
-
-Love you!
+❤️ you!
