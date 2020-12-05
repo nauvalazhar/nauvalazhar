@@ -9,4 +9,4 @@ I made [getstisla.com](https://getstisla.com/). A man behind [kodinger.com](http
 - 📖 https://multinity.id/book/tailwind-css
 - 📹 https://www.youtube.com/nauvalazhar
 
-❤️ you!
+More info: `npx nauval`
