@@ -7,6 +7,6 @@ I made [getstisla.com](https://getstisla.com/). A man behind [kodinger.com](http
 - 🕊️ https://twitter.com/mhdnauvalazhar
 - 🎨 https://www.figma.com/@mhd
 - 📖 https://multinity.id/book/tailwind-css
-- 📹 https://www.youtube.com/array-id
+- 📹 https://www.youtube.com/arrayid
 
 More info: `npx nauval`
